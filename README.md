@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/user-attachments/assets/c688c9e7-f13b-4cc0-8679-cb185f438818" alt="My Banner" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c688c9e7-f13b-4cc0-8679-cb185f438818" alt="My Banner" />
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Md-Afshan/count.svg?"  />
 </div>
