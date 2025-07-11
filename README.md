@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c688c9e7-f13b-4cc0-8679-cb185f438818" alt="My Banner" />
 </div>
-![GitHub Views](https://komarev.com/ghpvc/?username=md-afshan)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-afshan&label=Profile%20views&color=0e75b6&style=flat" alt="md-afshan" /> </p>
 
 # 💫 About Me:
 
